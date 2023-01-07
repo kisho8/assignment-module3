@@ -10,7 +10,6 @@ color: #61122F;
 }
 
 body{
-background-color: #999999;
 color: white;
 }
 
@@ -24,6 +23,7 @@ width:auto;
 height:auto;
 color:black;
 padding:20px;
+background-color: #999999;
 }
 
 .item-name{
